@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/leakytap/aws-cli-docker/compare/v1.0.0...v1.1.0) (2022-02-10)
+
+### Features
+
+- include wait-for-it script in image ([d79a88f](https://github.com/leakytap/aws-cli-docker/commit/d79a88f918a66f9737ad8eb88a43959ce6b90e29))
+
 # 1.0.0 (2022-01-15)
 
 ### Features
